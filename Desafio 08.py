@@ -1,0 +1,2 @@
+﻿n = float(input('Informe quantos metros tem a parede:'))
+print('O valor informado é {} metros, este mesmo valor convertido em centimetros é {} cm e convertido em milimetros é {} mm'. format(n, n*100, n*1000))

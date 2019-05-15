@@ -1,0 +1,2 @@
+﻿s = float(input('Informe o sálario do funcionário: R$'))
+print('O sálario informado é R$ {:.2f}. Com a promoção de 15% o sálario deste funcionário agora passará a ser R$ {:.2f}'.format(s, s+(s*15/100)))
